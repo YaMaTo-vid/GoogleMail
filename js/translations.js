@@ -1,7 +1,7 @@
 const translations = {
     km: {
         "nav.download": "របៀប Download និងតម្លើង",
-        "nav.login": "របៀប Create Email Account",
+        "nav.login": "របៀប Create Gmail Account",
         "nav.testing": "របៀបផ្ញើ Mail",
         "nav.features": "របៀបប្ដូរ set schedule សម្រាប់ send mail",
         "download.title": "របៀប Download និងតម្លើង",
@@ -43,7 +43,7 @@ const translations = {
     },
     en: {
         "nav.download": "Download and Install",
-        "nav.login": "Create Email Account",
+        "nav.login": "Create Gmail Account",
         "nav.testing": "Sending Mail",
         "nav.features": "Set schedule for sending mail",
         "download.title": "Download and Install",
